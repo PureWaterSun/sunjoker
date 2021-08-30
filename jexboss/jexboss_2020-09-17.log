@@ -1,0 +1,22 @@
+2020-09-17 02:42:15,875 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "F:\exp\中间件\jboss\jexboss\jexboss.py", line 72, in <module>
+    import readline
+ImportError: No module named readline
+2020-09-17 02:42:16,130 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "jexboss.py", line 72, in <module>
+    import readline
+ImportError: No module named readline
+2020-09-17 02:42:43,483 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "F:\exp\中间件\jboss\jexboss\jexboss.py", line 72, in <module>
+    import readline
+ImportError: No module named readline
+2020-09-17 02:42:43,711 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "jexboss.py", line 72, in <module>
+    import readline
+ImportError: No module named readline
+2020-09-17 02:42:44,737 (INFO): Checking Host: http://218.28.199.237:9900/szyx/hnjc/index.action
+2020-09-17 02:42:51,145 (WARNING): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='218.28.199.237', port=9900): Read timed out. (read timeout=6.0)",)': /szyx/hnjc/index.action

@@ -1,0 +1,10 @@
+2021-08-30 15:17:53,063 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "E:\suntool\21superman\jexboss\jexboss.py", line 72, in <module>
+    import readline
+ModuleNotFoundError: No module named 'readline'
+2021-08-30 15:17:53,265 (WARNING): Module readline not installed. The terminal will not support the arrow keys.
+Traceback (most recent call last):
+  File "jexboss.py", line 72, in <module>
+    import readline
+ModuleNotFoundError: No module named 'readline'
